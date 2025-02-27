@@ -1,0 +1,9 @@
+{
+  "name": "Pratham",
+  "age": 28,
+  "email": "Pratham@123",
+  "address": {
+    "city": "Mumbai",
+    "zip": "400001"
+  }
+}
